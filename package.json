@@ -1,0 +1,17 @@
+{
+    "name": "casestudy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "mongodb": "^4.10.0",
+      "puppeteer": "^18.2.0"
+    }
+  }
+  
